@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #f0e68c; /* Cor de fundo amarela clara, representando o sol */
+    color: #333; /* Cor de fonte cinza escuro */
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+    padding: 20px;
+}
+
+.descricao {
+    margin-top: 20px;
+}
+
+.conteudo {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
